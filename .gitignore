@@ -141,5 +141,3 @@ debug.log
 *.ipynb
 .envrc
 .vs/
-node_modules/
-*.json
